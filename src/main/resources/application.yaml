@@ -1,3 +1,12 @@
 spring:
   application:
     name: Pf
+
+  datasource:
+    url: jdbc:postgresql://localhost:5433/avaliacoes
+    username: avaliacoes
+    password: senha-local-teste
+
+  jpa:
+    hibernate:
+      ddl-auto: update

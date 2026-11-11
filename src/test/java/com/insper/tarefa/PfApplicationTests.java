@@ -1,4 +1,4 @@
-package com.insper.Pf;
+package com.insper.tarefa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
