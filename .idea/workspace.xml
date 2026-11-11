@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3627d5d-2784-415a-be85-cbc383c2a209" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insper/tarefa/Tarefa/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insper/tarefa/Tarefa/TarefaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insper/tarefa/Tarefa/TarefaNaoEncontradaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insper/tarefa/Tarefa/TarefaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/insper/tarefa/Tarefa/TarefaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/insper/Pf/PfApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/insper/tarefa/PfApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/insper/Pf/PfApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/insper/tarefa/PfApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Exception" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0004505045360215" />
+      <entry key="S2" value="1.2107687140001397" />
+      <entry key="S5" value="2.145107687585814" />
+      <entry key="S10" value="3.8188949133029353" />
+      <entry key="S30" value="8.061083398688968" />
+      <entry key="S60" value="10.446756299779624" />
+      <entry key="M2" value="12.059595672423988" />
+      <entry key="M5" value="13.952239828213036" />
+      <entry key="M10" value="16.37432612988276" />
+      <entry key="M15" value="17.993328375795013" />
+      <entry key="M30" value="20.397017777865095" />
+      <entry key="H1" value="22.015224691497288" />
+      <entry key="H2" value="22.956802861171745" />
+      <entry key="H4" value="23.465015942987456" />
+      <entry key="D1" value="23.90891590935026" />
+      <entry key="W1" value="23.986940148333023" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.2676673826198066E-11" />
+      <entry key="MS500" value="0.007504792881735825" />
+      <entry key="S2" value="0.4294230084063995" />
+      <entry key="S5" value="1.5820149713768445" />
+      <entry key="S10" value="3.3779988009150026" />
+      <entry key="S30" value="7.784971046513433" />
+      <entry key="S60" value="10.271516349470557" />
+      <entry key="M2" value="11.9593558146388" />
+      <entry key="M5" value="13.908353622402556" />
+      <entry key="M10" value="16.351465513699218" />
+      <entry key="M15" value="17.97780888305275" />
+      <entry key="M30" value="20.38908305002387" />
+      <entry key="H1" value="22.011204257158678" />
+      <entry key="H2" value="22.954777899352578" />
+      <entry key="H4" value="23.46399956766986" />
+      <entry key="D1" value="23.90874595368254" />
+      <entry key="W1" value="23.986915854988027" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Lxnqv3OPcs8GG40MElMx7m6OYT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.PfApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PfApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="Pf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.insper.tarefa.PfApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.insper.tarefa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PfApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3627d5d-2784-415a-be85-cbc383c2a209" name="Changes" comment="" />
+      <created>1794404781135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794404781135</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
